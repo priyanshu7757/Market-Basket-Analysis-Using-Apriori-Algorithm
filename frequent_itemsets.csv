@@ -1,0 +1,254 @@
+support,itemsets,length
+0.556,Butter,1
+0.55,Bread,1
+0.438,"Bread, Butter",2
+0.43,Tea,1
+0.408,Biscuits,1
+0.396,Pasta,1
+0.394,Tomato Sauce,1
+0.388,Cereal,1
+0.366,Milk,1
+0.294,"Biscuits, Tea",2
+0.264,"Pasta, Tomato Sauce",2
+0.248,"Cereal, Milk",2
+0.244,Bananas,1
+0.234,Rice,1
+0.228,Coffee,1
+0.226,"Bread, Tomato Sauce",2
+0.224,Yogurt,1
+0.222,"Bread, Tea",2
+0.22,Apples,1
+0.22,Sugar,1
+0.22,"Biscuits, Butter",2
+0.218,"Butter, Tea",2
+0.216,"Bread, Pasta",2
+0.212,Cheese,1
+0.212,Eggs,1
+0.212,"Biscuits, Bread",2
+0.21,"Butter, Tomato Sauce",2
+0.204,"Butter, Milk",2
+0.202,"Butter, Pasta",2
+0.198,"Butter, Cereal",2
+0.196,"Bread, Milk",2
+0.19,"Bread, Cereal",2
+0.176,"Bread, Butter, Tea",3
+0.174,"Bread, Butter, Tomato Sauce",3
+0.172,"Biscuits, Bread, Butter",3
+0.17,"Milk, Tea",2
+0.168,"Biscuits, Tomato Sauce",2
+0.168,"Bread, Butter, Pasta",3
+0.164,"Tea, Tomato Sauce",2
+0.162,"Cereal, Tea",2
+0.162,"Bread, Butter, Milk",3
+0.158,"Bread, Butter, Cereal",3
+0.156,"Pasta, Tea",2
+0.156,"Biscuits, Cereal",2
+0.154,"Biscuits, Bread, Tea",3
+0.152,"Cereal, Pasta",2
+0.15,"Biscuits, Butter, Tea",3
+0.15,"Biscuits, Milk",2
+0.148,"Bread, Pasta, Tomato Sauce",3
+0.146,"Biscuits, Pasta",2
+0.144,"Milk, Pasta",2
+0.144,"Bananas, Butter",2
+0.14,"Bananas, Bread",2
+0.138,"Butter, Cereal, Milk",3
+0.134,"Cereal, Tomato Sauce",2
+0.13,"Butter, Coffee",2
+0.13,"Bread, Rice",2
+0.128,"Butter, Eggs",2
+0.128,"Butter, Rice",2
+0.126,"Butter, Yogurt",2
+0.126,"Bread, Cereal, Milk",3
+0.126,"Biscuits, Tea, Tomato Sauce",3
+0.126,"Butter, Pasta, Tomato Sauce",3
+0.124,"Bread, Coffee",2
+0.122,"Cereal, Milk, Tea",3
+0.122,"Milk, Tomato Sauce",2
+0.12,"Biscuits, Bread, Butter, Tea",4
+0.12,"Bread, Yogurt",2
+0.118,"Bread, Eggs",2
+0.118,"Bread, Sugar",2
+0.118,"Butter, Cheese",2
+0.116,"Apples, Bread",2
+0.116,"Bananas, Tea",2
+0.116,"Apples, Butter",2
+0.116,"Butter, Sugar",2
+0.11,"Biscuits, Milk, Tea",3
+0.108,"Bread, Butter, Pasta, Tomato Sauce",4
+0.108,"Sugar, Tea",2
+0.108,"Bananas, Bread, Butter",3
+0.108,"Biscuits, Cereal, Tea",3
+0.108,"Bread, Cheese",2
+0.106,"Bread, Butter, Cereal, Milk",4
+0.106,"Biscuits, Pasta, Tomato Sauce",3
+0.106,"Biscuits, Pasta, Tea",3
+0.106,"Bread, Butter, Eggs",3
+0.104,"Bread, Butter, Coffee",3
+0.102,"Biscuits, Cereal, Milk",3
+0.102,"Bananas, Biscuits",2
+0.102,"Bread, Butter, Yogurt",3
+0.1,"Cheese, Tea",2
+0.098,"Pasta, Tea, Tomato Sauce",3
+0.096,"Coffee, Tomato Sauce",2
+0.096,"Bananas, Cereal",2
+0.096,"Apples, Bread, Butter",3
+0.096,"Bread, Butter, Rice",3
+0.096,"Tea, Yogurt",2
+0.094,"Bananas, Milk",2
+0.094,"Cereal, Pasta, Tomato Sauce",3
+0.094,"Rice, Tea",2
+0.094,"Rice, Tomato Sauce",2
+0.094,"Bread, Butter, Sugar",3
+0.094,"Cereal, Rice",2
+0.092,"Bananas, Tomato Sauce",2
+0.092,"Cereal, Milk, Pasta",3
+0.092,"Apples, Tea",2
+0.092,"Biscuits, Sugar",2
+0.09,"Milk, Pasta, Tomato Sauce",3
+0.09,"Coffee, Pasta",2
+0.09,"Biscuits, Yogurt",2
+0.09,"Milk, Rice",2
+0.09,"Eggs, Tomato Sauce",2
+0.088,"Bread, Butter, Cheese",3
+0.088,"Cereal, Yogurt",2
+0.088,"Milk, Sugar",2
+0.088,"Bananas, Biscuits, Tea",3
+0.088,"Biscuits, Butter, Tomato Sauce",3
+0.086,"Cereal, Sugar",2
+0.086,"Biscuits, Cheese",2
+0.086,"Bread, Milk, Tea",3
+0.086,"Biscuits, Bread, Tomato Sauce",3
+0.086,"Bananas, Pasta",2
+0.084,"Biscuits, Butter, Milk",3
+0.084,"Apples, Biscuits",2
+0.084,"Eggs, Pasta",2
+0.084,"Biscuits, Bread, Milk",3
+0.082,"Apples, Cereal",2
+0.082,"Bread, Tea, Tomato Sauce",3
+0.082,"Biscuits, Rice",2
+0.082,"Eggs, Tea",2
+0.082,"Butter, Milk, Tea",3
+0.08,"Biscuits, Coffee",2
+0.08,"Apples, Pasta",2
+0.08,"Butter, Tea, Tomato Sauce",3
+0.08,"Eggs, Milk",2
+0.08,"Cereal, Eggs",2
+0.078,"Biscuits, Sugar, Tea",3
+0.078,"Apples, Tomato Sauce",2
+0.078,"Biscuits, Eggs",2
+0.078,"Sugar, Tomato Sauce",2
+0.076,"Biscuits, Pasta, Tea, Tomato Sauce",4
+0.076,"Cereal, Milk, Tomato Sauce",3
+0.076,"Biscuits, Bread, Cereal",3
+0.076,"Biscuits, Butter, Cereal",3
+0.076,"Biscuits, Cereal, Milk, Tea",4
+0.074,"Cereal, Cheese",2
+0.074,"Butter, Milk, Pasta",3
+0.074,"Coffee, Tea",2
+0.074,"Biscuits, Bread, Pasta",3
+0.074,"Butter, Cereal, Tea",3
+0.074,"Pasta, Rice",2
+0.072,"Bread, Pasta, Tea",3
+0.072,"Bread, Cereal, Pasta",3
+0.072,"Milk, Yogurt",2
+0.072,"Pasta, Sugar",2
+0.072,"Coffee, Milk",2
+0.072,"Pasta, Yogurt",2
+0.072,"Tomato Sauce, Yogurt",2
+0.072,"Bread, Cereal, Tea",3
+0.072,"Biscuits, Bread, Butter, Milk",4
+0.072,"Bread, Milk, Pasta",3
+0.07,"Biscuits, Butter, Pasta",3
+0.07,"Bread, Butter, Milk, Tea",4
+0.07,"Butter, Pasta, Tea",3
+0.07,"Bananas, Butter, Tea",3
+0.07,"Bread, Cereal, Tomato Sauce",3
+0.068,"Biscuits, Bread, Butter, Tomato Sauce",4
+0.068,"Butter, Milk, Tomato Sauce",3
+0.068,"Apples, Milk",2
+0.068,"Butter, Cereal, Pasta",3
+0.068,"Eggs, Pasta, Tomato Sauce",3
+0.068,"Coffee, Pasta, Tomato Sauce",3
+0.066,"Biscuits, Bread, Butter, Cereal",4
+0.066,"Bread, Milk, Tomato Sauce",3
+0.066,"Cheese, Pasta",2
+0.066,"Cheese, Milk",2
+0.066,"Biscuits, Cheese, Tea",3
+0.066,"Butter, Cereal, Tomato Sauce",3
+0.066,"Biscuits, Tea, Yogurt",3
+0.066,"Apples, Biscuits, Tea",3
+0.064,"Cereal, Milk, Rice",3
+0.064,"Cereal, Pasta, Tea",3
+0.064,"Bananas, Bread, Tea",3
+0.064,"Bananas, Cereal, Milk",3
+0.062,"Biscuits, Butter, Tea, Tomato Sauce",4
+0.062,"Bread, Butter, Tea, Tomato Sauce",4
+0.062,"Cereal, Coffee",2
+0.062,"Cheese, Tomato Sauce",2
+0.062,"Biscuits, Bread, Tea, Tomato Sauce",4
+0.062,"Cereal, Milk, Sugar",3
+0.06,"Biscuits, Eggs, Tea",3
+0.06,"Biscuits, Cereal, Tomato Sauce",3
+0.06,"Bread, Coffee, Tomato Sauce",3
+0.06,"Milk, Pasta, Tea",3
+0.06,"Biscuits, Butter, Milk, Tea",4
+0.06,"Biscuits, Bread, Milk, Tea",4
+0.06,"Bread, Butter, Cereal, Tea",4
+0.06,"Bread, Tea, Yogurt",3
+0.06,"Bananas, Bread, Tomato Sauce",3
+0.058,"Cereal, Tea, Tomato Sauce",3
+0.058,"Biscuits, Rice, Tea",3
+0.058,"Biscuits, Cereal, Pasta",3
+0.058,"Bread, Butter, Milk, Pasta",4
+0.058,"Pasta, Rice, Tomato Sauce",3
+0.058,"Biscuits, Butter, Cereal, Milk",4
+0.058,"Cereal, Eggs, Milk",3
+0.058,"Biscuits, Bread, Butter, Pasta",4
+0.056,"Bananas, Pasta, Tomato Sauce",3
+0.056,"Bananas, Biscuits, Butter",3
+0.056,"Biscuits, Bread, Pasta, Tomato Sauce",4
+0.056,"Butter, Cereal, Milk, Tea",4
+0.056,"Bread, Butter, Pasta, Tea",4
+0.054,"Bread, Butter, Cereal, Pasta",4
+0.054,"Bread, Cereal, Milk, Tea",4
+0.054,"Cheese, Yogurt",2
+0.054,"Rice, Sugar",2
+0.054,"Biscuits, Butter, Cereal, Tea",4
+0.054,"Bananas, Butter, Tomato Sauce",3
+0.054,"Biscuits, Bread, Cereal, Milk",4
+0.054,"Butter, Tea, Yogurt",3
+0.054,"Bananas, Bread, Butter, Tea",4
+0.054,"Cereal, Milk, Yogurt",3
+0.054,"Biscuits, Coffee, Tea",3
+0.054,"Bread, Milk, Rice",3
+0.052,"Biscuits, Bread, Cereal, Tea",4
+0.052,"Bananas, Bread, Milk",3
+0.052,"Bananas, Bread, Cereal",3
+0.052,"Coffee, Yogurt",2
+0.052,"Bananas, Cheese",2
+0.052,"Bananas, Bread, Pasta",3
+0.052,"Biscuits, Bread, Butter, Milk, Tea",5
+0.052,"Cereal, Milk, Pasta, Tomato Sauce",4
+0.052,"Bananas, Butter, Milk",3
+0.052,"Bread, Butter, Milk, Tomato Sauce",4
+0.052,"Butter, Cheese, Tea",3
+0.052,"Bread, Sugar, Tea",3
+0.052,"Biscuits, Milk, Pasta",3
+0.052,"Biscuits, Bread, Yogurt",3
+0.052,"Bananas, Biscuits, Butter, Tea",4
+0.052,"Biscuits, Butter, Pasta, Tomato Sauce",4
+0.052,"Milk, Tea, Tomato Sauce",3
+0.052,"Bread, Butter, Cereal, Tomato Sauce",4
+0.05,"Apples, Cereal, Milk",3
+0.05,"Apples, Pasta, Tomato Sauce",3
+0.05,"Apples, Cheese",2
+0.05,"Biscuits, Bread, Sugar",3
+0.05,"Butter, Cereal, Rice",3
+0.05,"Bread, Coffee, Pasta",3
+0.05,"Bread, Eggs, Tomato Sauce",3
+0.05,"Bread, Cereal, Rice",3
+0.05,"Butter, Eggs, Tomato Sauce",3
+0.05,"Butter, Coffee, Tomato Sauce",3
+0.05,"Biscuits, Bread, Pasta, Tea",4
+0.05,"Bread, Butter, Tea, Yogurt",4
